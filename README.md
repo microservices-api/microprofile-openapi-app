@@ -1,3 +1,3 @@
-# Microservice Builder Sample - Vote microservice
+# Sample MicroProfile OpenAPI Application
 
-See the [sample documentation](https://github.com/WASdev/sample.microservicebuilder.docs) for more information.
+This application is derived from the [MicroProfile OpenAPI TCK](https://github.com/eclipse/microprofile-open-api/tree/master/tck)
