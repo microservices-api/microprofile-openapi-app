@@ -5,14 +5,13 @@ This application is derived from the [MicroProfile OpenAPI TCK](https://github.c
 ## Setup and run instructions
 
 ### Clone application
-```
-git clone https://github.com/microservices-api/oas3-microprofile-app.git
-```
+*  `git clone https://github.com/microservices-api/oas3-microprofile-app.git`
+
 ### Create a deployable WAR file
-```
-cd oas3-microprofile-app
-mvn package
-```
+
+*  `cd oas3-microprofile-app`
+*  `mvn package`
+
 The packaged WAR file will be at the following location: `oas3-microprofile-app/deployment_artifacts/airlines.war`
 
 ### Deploy locally in a Docker container (using Open Liberty)
