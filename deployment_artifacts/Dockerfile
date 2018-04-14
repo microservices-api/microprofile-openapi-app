@@ -1,3 +1,3 @@
-FROM websphere-liberty
+FROM open-liberty
 COPY server.xml  /config/
 COPY airlines.war /config/dropins/ 
